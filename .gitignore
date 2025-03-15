@@ -1,0 +1,11 @@
+# Ignore dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+.env
+
+# Ignore build files
+/frontend/build
